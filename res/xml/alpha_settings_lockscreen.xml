@@ -72,8 +72,7 @@
             android:key="depth_wallpaper_enabled"
             android:title="@string/dw_wallpaper_enabled_title"
             android:summary="@string/dw_wallpaper_enabled_summary"
-            android:defaultValue="false"
-            lineage:position="top" />
+            android:defaultValue="false" />
 
         <com.android.settings.preferences.ui.AdaptivePreference
             android:key="depth_wallpaper_subject_image_uri"
